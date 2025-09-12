@@ -1,0 +1,691 @@
+2025-08-07 16:23:23,311 - INFO - 🚀 Setting up Selenium WebDriver for potential FAQ pages...
+2025-08-07 16:23:23,311 - INFO - ====== WebDriver manager ======
+2025-08-07 16:23:24,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-07 16:23:24,618 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-07 16:23:24,701 - INFO - Driver [C:\Users\tatha\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-07 16:23:26,310 - INFO - ✅ WebDriver initialized successfully.
+2025-08-07 16:23:26,310 - INFO - 🌐 Fetching sitemap: https://mosdac.gov.in/sitemap
+2025-08-07 16:23:26,835 - INFO - 📡 Found 90 potential satellite sections to explore.
+2025-08-07 16:23:26,835 - INFO - 
+🔍 Processing Satellite Section: insat-3dr
+2025-08-07 16:23:26,983 - INFO -   🔗 Found 6 subpages for 'insat-3dr'. Checking for updates...
+2025-08-07 16:23:26,984 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr
+2025-08-07 16:23:27,118 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3dr
+2025-08-07 16:23:27,411 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-introduction
+2025-08-07 16:23:27,602 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3dr-introduction
+2025-08-07 16:23:27,923 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-objectives
+2025-08-07 16:23:28,096 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3dr-objectives
+2025-08-07 16:23:28,469 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-payloads
+2025-08-07 16:23:28,661 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3dr-payloads
+2025-08-07 16:23:29,108 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-references
+2025-08-07 16:23:29,240 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3dr-references
+2025-08-07 16:23:45,909 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-spacecraft
+2025-08-07 16:23:46,042 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3dr-spacecraft
+2025-08-07 16:23:46,325 - INFO - 
+🔍 Processing Satellite Section: insat-3d
+2025-08-07 16:23:46,468 - INFO -   🔗 Found 8 subpages for 'insat-3d'. Checking for updates...
+2025-08-07 16:23:46,469 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d
+2025-08-07 16:23:46,629 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3d
+2025-08-07 16:23:46,973 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-introduction
+2025-08-07 16:23:47,113 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3d-introduction
+2025-08-07 16:23:47,430 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-objectives
+2025-08-07 16:23:47,601 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3d-objectives
+2025-08-07 16:23:48,209 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-payloads
+2025-08-07 16:23:48,406 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3d-payloads
+2025-08-07 16:23:48,886 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-references
+2025-08-07 16:23:49,033 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3d-references
+2025-08-07 16:23:59,186 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-spacecraft
+2025-08-07 16:23:59,325 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3d-spacecraft
+2025-08-07 16:23:59,640 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr
+2025-08-07 16:23:59,788 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr
+2025-08-07 16:23:59,788 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3ds
+2025-08-07 16:23:59,938 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3ds
+2025-08-07 16:24:00,399 - INFO - 
+🔍 Processing Satellite Section: kalpana-1
+2025-08-07 16:24:00,639 - INFO -   🔗 Found 5 subpages for 'kalpana-1'. Checking for updates...
+2025-08-07 16:24:00,640 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1
+2025-08-07 16:24:01,264 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/kalpana-1
+2025-08-07 16:24:01,578 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-introduction
+2025-08-07 16:24:01,755 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/kalpana-1-introduction
+2025-08-07 16:24:02,022 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-objectives
+2025-08-07 16:24:02,188 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/kalpana-1-objectives
+2025-08-07 16:24:02,604 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-payloads
+2025-08-07 16:24:02,839 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/kalpana-1-payloads
+2025-08-07 16:24:03,790 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-spacecraft
+2025-08-07 16:24:04,714 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/kalpana-1-spacecraft
+2025-08-07 16:24:06,289 - INFO - 
+🔍 Processing Satellite Section: insat-3a
+2025-08-07 16:24:06,709 - INFO -   🔗 Found 5 subpages for 'insat-3a'. Checking for updates...
+2025-08-07 16:24:06,709 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a
+2025-08-07 16:24:06,899 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3a
+2025-08-07 16:24:07,217 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-introduction
+2025-08-07 16:24:07,384 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3a-introduction
+2025-08-07 16:24:07,658 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-objectives
+2025-08-07 16:24:07,798 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3a-objectives
+2025-08-07 16:24:08,188 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-payloads
+2025-08-07 16:24:08,335 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3a-payloads
+2025-08-07 16:24:08,954 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-spacecraft
+2025-08-07 16:24:09,092 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insat-3a-spacecraft
+2025-08-07 16:24:09,431 - INFO - 
+🔍 Processing Satellite Section: megha-tropiques
+2025-08-07 16:24:09,666 - INFO -   🔗 Found 6 subpages for 'megha-tropiques'. Checking for updates...
+2025-08-07 16:24:09,666 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques
+2025-08-07 16:24:09,858 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/megha-tropiques
+2025-08-07 16:24:10,183 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-introduction
+2025-08-07 16:24:10,358 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/megha-tropiques-introduction
+2025-08-07 16:24:10,658 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-objectives
+2025-08-07 16:24:10,838 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/megha-tropiques-objectives
+2025-08-07 16:24:11,248 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-payloads
+2025-08-07 16:24:11,437 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/megha-tropiques-payloads
+2025-08-07 16:24:11,739 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-references
+2025-08-07 16:24:11,929 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/megha-tropiques-references
+2025-08-07 16:24:14,855 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-spacecraft
+2025-08-07 16:24:15,025 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/megha-tropiques-spacecraft
+2025-08-07 16:24:16,368 - INFO - 
+🔍 Processing Satellite Section: saral-altika
+2025-08-07 16:24:17,022 - INFO -   🔗 Found 5 subpages for 'saral-altika'. Checking for updates...
+2025-08-07 16:24:17,022 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika
+2025-08-07 16:24:17,625 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/saral-altika
+2025-08-07 16:24:18,723 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-introduction
+2025-08-07 16:24:18,873 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/saral-altika-introduction
+2025-08-07 16:24:19,297 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-objectives
+2025-08-07 16:24:19,420 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/saral-altika-objectives
+2025-08-07 16:24:19,743 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-payloads
+2025-08-07 16:24:19,874 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/saral-altika-payloads
+2025-08-07 16:24:20,182 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-spacecraft
+2025-08-07 16:24:20,327 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/saral-altika-spacecraft
+2025-08-07 16:24:20,833 - INFO - 
+🔍 Processing Satellite Section: oceansat-2
+2025-08-07 16:24:21,045 - INFO -   🔗 Found 6 subpages for 'oceansat-2'. Checking for updates...
+2025-08-07 16:24:21,045 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2
+2025-08-07 16:24:21,204 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-2
+2025-08-07 16:24:21,553 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-introduction
+2025-08-07 16:24:21,689 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-2-introduction
+2025-08-07 16:24:22,001 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-objectives
+2025-08-07 16:24:22,169 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-2-objectives
+2025-08-07 16:24:22,537 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-payloads
+2025-08-07 16:24:23,008 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-2-payloads
+2025-08-07 16:24:23,321 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-references
+2025-08-07 16:24:23,604 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-2-references
+2025-08-07 16:24:24,869 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-spacecraft
+2025-08-07 16:24:25,050 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-2-spacecraft
+2025-08-07 16:24:25,381 - INFO - 
+🔍 Processing Satellite Section: oceansat-3
+2025-08-07 16:24:25,559 - INFO -   🔗 Found 5 subpages for 'oceansat-3'. Checking for updates...
+2025-08-07 16:24:25,559 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3
+2025-08-07 16:24:26,056 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-3
+2025-08-07 16:24:26,410 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-introduction
+2025-08-07 16:24:26,551 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-3-introduction
+2025-08-07 16:24:26,876 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-objectives
+2025-08-07 16:24:27,089 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-3-objectives
+2025-08-07 16:24:28,416 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-payloads
+2025-08-07 16:24:30,110 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-3-payloads
+2025-08-07 16:24:31,069 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-spacecraft
+2025-08-07 16:24:31,211 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceansat-3-spacecraft
+2025-08-07 16:24:31,828 - INFO - 
+🔍 Processing Satellite Section: insat-3ds
+2025-08-07 16:24:32,008 - INFO -   🔗 Found 1 subpages for 'insat-3ds'. Checking for updates...
+2025-08-07 16:24:32,009 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3ds
+2025-08-07 16:24:32,158 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3ds
+2025-08-07 16:24:32,159 - INFO - 
+🔍 Processing Satellite Section: scatsat-1
+2025-08-07 16:24:32,353 - INFO -   🔗 Found 6 subpages for 'scatsat-1'. Checking for updates...
+2025-08-07 16:24:32,354 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1
+2025-08-07 16:24:32,513 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/scatsat-1
+2025-08-07 16:24:32,837 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-introduction
+2025-08-07 16:24:32,995 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/scatsat-1-introduction
+2025-08-07 16:24:33,418 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-objectives
+2025-08-07 16:24:33,568 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/scatsat-1-objectives
+2025-08-07 16:24:33,935 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-payloads
+2025-08-07 16:24:34,104 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/scatsat-1-payloads
+2025-08-07 16:24:34,382 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-references
+2025-08-07 16:24:34,556 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/scatsat-1-references
+2025-08-07 16:24:35,204 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-spacecraft
+2025-08-07 16:24:35,343 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/scatsat-1-spacecraft
+2025-08-07 16:24:35,617 - INFO - 
+🔍 Processing Satellite Section: bayesian-based-mt-saphir-rainfall
+2025-08-07 16:24:35,843 - INFO -   🔗 Found 1 subpages for 'bayesian-based-mt-saphir-rainfall'. Checking for updates...
+2025-08-07 16:24:35,843 - INFO -     - Using Requests for: https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall
+2025-08-07 16:24:36,032 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall
+2025-08-07 16:24:36,322 - INFO - 
+🔍 Processing Satellite Section: gps-derived-integrated-water-vapour
+2025-08-07 16:24:36,512 - INFO -   🔗 Found 1 subpages for 'gps-derived-integrated-water-vapour'. Checking for updates...
+2025-08-07 16:24:36,512 - INFO -     - Using Requests for: https://mosdac.gov.in/gps-derived-integrated-water-vapour
+2025-08-07 16:24:36,672 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/gps-derived-integrated-water-vapour
+2025-08-07 16:24:37,113 - INFO - 
+🔍 Processing Satellite Section: gsmap-isro-rain
+2025-08-07 16:24:37,314 - INFO -   🔗 Found 1 subpages for 'gsmap-isro-rain'. Checking for updates...
+2025-08-07 16:24:37,314 - INFO -     - Using Requests for: https://mosdac.gov.in/gsmap-isro-rain
+2025-08-07 16:24:37,468 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/gsmap-isro-rain
+2025-08-07 16:24:37,846 - INFO - 
+🔍 Processing Satellite Section: meteosat8-cloud-properties
+2025-08-07 16:24:38,021 - INFO -   🔗 Found 1 subpages for 'meteosat8-cloud-properties'. Checking for updates...
+2025-08-07 16:24:38,021 - INFO -     - Using Requests for: https://mosdac.gov.in/meteosat8-cloud-properties
+2025-08-07 16:24:38,198 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/meteosat8-cloud-properties
+2025-08-07 16:24:38,497 - INFO - 
+🔍 Processing Satellite Section: 3d-volumetric-terls-dwrproduct
+2025-08-07 16:24:38,697 - INFO -   🔗 Found 1 subpages for '3d-volumetric-terls-dwrproduct'. Checking for updates...
+2025-08-07 16:24:38,698 - INFO -     - Using Requests for: https://mosdac.gov.in/3d-volumetric-terls-dwrproduct
+2025-08-07 16:24:38,855 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/3d-volumetric-terls-dwrproduct
+2025-08-07 16:24:39,515 - INFO - 
+🔍 Processing Satellite Section: inland-water-height
+2025-08-07 16:24:40,196 - INFO -   🔗 Found 1 subpages for 'inland-water-height'. Checking for updates...
+2025-08-07 16:24:40,196 - INFO -     - Using Requests for: https://mosdac.gov.in/inland-water-height
+2025-08-07 16:24:41,202 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/inland-water-height
+2025-08-07 16:24:42,951 - INFO - 
+🔍 Processing Satellite Section: river-discharge
+2025-08-07 16:24:43,155 - INFO -   🔗 Found 1 subpages for 'river-discharge'. Checking for updates...
+2025-08-07 16:24:43,155 - INFO -     - Using Requests for: https://mosdac.gov.in/river-discharge
+2025-08-07 16:24:43,352 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/river-discharge
+2025-08-07 16:24:43,731 - INFO - 
+🔍 Processing Satellite Section: soil-moisture-0
+2025-08-07 16:24:44,019 - INFO -   🔗 Found 1 subpages for 'soil-moisture-0'. Checking for updates...
+2025-08-07 16:24:44,019 - INFO -     - Using Requests for: https://mosdac.gov.in/soil-moisture-0
+2025-08-07 16:24:44,160 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/soil-moisture-0
+2025-08-07 16:24:44,505 - INFO - 
+🔍 Processing Satellite Section: global-ocean-surface-current
+2025-08-07 16:24:44,702 - INFO -   🔗 Found 1 subpages for 'global-ocean-surface-current'. Checking for updates...
+2025-08-07 16:24:44,702 - INFO -     - Using Requests for: https://mosdac.gov.in/global-ocean-surface-current
+2025-08-07 16:24:45,889 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/global-ocean-surface-current
+2025-08-07 16:24:46,316 - INFO - 
+🔍 Processing Satellite Section: high-resolution-sea-surface-salinity
+2025-08-07 16:24:46,492 - INFO -   🔗 Found 1 subpages for 'high-resolution-sea-surface-salinity'. Checking for updates...
+2025-08-07 16:24:46,492 - INFO -     - Using Requests for: https://mosdac.gov.in/high-resolution-sea-surface-salinity
+2025-08-07 16:24:46,755 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/high-resolution-sea-surface-salinity
+2025-08-07 16:24:47,155 - INFO - 
+🔍 Processing Satellite Section: indian-mainland-coastal-product
+2025-08-07 16:24:47,386 - INFO -   🔗 Found 1 subpages for 'indian-mainland-coastal-product'. Checking for updates...
+2025-08-07 16:24:47,386 - INFO -     - Using Requests for: https://mosdac.gov.in/indian-mainland-coastal-product
+2025-08-07 16:24:47,597 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/indian-mainland-coastal-product
+2025-08-07 16:24:48,527 - INFO - 
+🔍 Processing Satellite Section: ocean-subsurface
+2025-08-07 16:24:48,700 - INFO -   🔗 Found 1 subpages for 'ocean-subsurface'. Checking for updates...
+2025-08-07 16:24:48,701 - INFO -     - Using Requests for: https://mosdac.gov.in/ocean-subsurface
+2025-08-07 16:24:48,918 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/ocean-subsurface
+2025-08-07 16:24:49,303 - INFO - 
+🔍 Processing Satellite Section: oceanic-eddies-detection
+2025-08-07 16:24:49,519 - INFO -   🔗 Found 1 subpages for 'oceanic-eddies-detection'. Checking for updates...
+2025-08-07 16:24:49,520 - INFO -     - Using Requests for: https://mosdac.gov.in/oceanic-eddies-detection
+2025-08-07 16:24:49,678 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/oceanic-eddies-detection
+2025-08-07 16:24:50,017 - INFO - 
+🔍 Processing Satellite Section: sea-ice-occurrence-probability
+2025-08-07 16:24:50,436 - INFO -   🔗 Found 1 subpages for 'sea-ice-occurrence-probability'. Checking for updates...
+2025-08-07 16:24:50,437 - INFO -     - Using Requests for: https://mosdac.gov.in/sea-ice-occurrence-probability
+2025-08-07 16:24:50,615 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/sea-ice-occurrence-probability
+2025-08-07 16:24:50,905 - INFO - 
+🔍 Processing Satellite Section: wave-based-renewable-energy
+2025-08-07 16:24:51,090 - INFO -   🔗 Found 1 subpages for 'wave-based-renewable-energy'. Checking for updates...
+2025-08-07 16:24:51,091 - INFO -     - Using Requests for: https://mosdac.gov.in/wave-based-renewable-energy
+2025-08-07 16:24:51,519 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/wave-based-renewable-energy
+2025-08-07 16:24:52,874 - INFO - 
+🔍 Processing Satellite Section: rss-feed
+2025-08-07 16:24:54,128 - INFO -   🔗 Found 1 subpages for 'rss-feed'. Checking for updates...
+2025-08-07 16:24:54,129 - INFO -     - Using Requests for: https://mosdac.gov.in/rss-feed
+2025-08-07 16:24:54,755 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/rss-feed
+2025-08-07 16:24:55,077 - INFO - 
+🔍 Processing Satellite Section: insitu
+2025-08-07 16:24:55,240 - INFO -   🔗 Found 3 subpages for 'insitu'. Checking for updates...
+2025-08-07 16:24:55,242 - INFO -     - Using Requests for: https://mosdac.gov.in/insitu
+2025-08-07 16:24:55,415 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insitu
+2025-08-07 16:24:55,787 - INFO -     - Using Requests for: https://mosdac.gov.in/insitu?sort=asc&order=modified
+2025-08-07 16:24:55,960 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insitu?sort=asc&order=modified
+2025-08-07 16:24:56,417 - INFO -     - Using Requests for: https://mosdac.gov.in/insitu?sort=desc&order=Display%20name
+2025-08-07 16:24:56,585 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/insitu?sort=desc&order=Display%20name
+2025-08-07 16:24:57,023 - INFO - 
+🔍 Processing Satellite Section: calibration-reports
+2025-08-07 16:24:57,191 - INFO -   🔗 Found 3 subpages for 'calibration-reports'. Checking for updates...
+2025-08-07 16:24:57,191 - INFO -     - Using Requests for: https://mosdac.gov.in/calibration-reports
+2025-08-07 16:24:57,333 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/calibration-reports
+2025-08-07 16:24:57,630 - INFO -     - Using Requests for: https://mosdac.gov.in/calibration-reports?sort=asc&order=modified
+2025-08-07 16:24:57,757 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/calibration-reports?sort=asc&order=modified
+2025-08-07 16:24:58,034 - INFO -     - Using Requests for: https://mosdac.gov.in/calibration-reports?sort=desc&order=Display%20name
+2025-08-07 16:24:58,180 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/calibration-reports?sort=desc&order=Display%20name
+2025-08-07 16:24:58,476 - INFO - 
+🔍 Processing Satellite Section: validation-reports
+2025-08-07 16:24:58,623 - INFO -   🔗 Found 3 subpages for 'validation-reports'. Checking for updates...
+2025-08-07 16:24:58,624 - INFO -     - Using Requests for: https://mosdac.gov.in/validation-reports
+2025-08-07 16:24:58,755 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/validation-reports
+2025-08-07 16:24:59,086 - INFO -     - Using Requests for: https://mosdac.gov.in/validation-reports?sort=asc&order=modified
+2025-08-07 16:24:59,249 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/validation-reports?sort=asc&order=modified
+2025-08-07 16:24:59,577 - INFO -     - Using Requests for: https://mosdac.gov.in/validation-reports?sort=desc&order=Display%20name
+2025-08-07 16:24:59,712 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/validation-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:00,011 - INFO - 
+🔍 Processing Satellite Section: data-quality
+2025-08-07 16:25:00,192 - INFO -   🔗 Found 3 subpages for 'data-quality'. Checking for updates...
+2025-08-07 16:25:00,192 - INFO -     - Using Requests for: https://mosdac.gov.in/data-quality
+2025-08-07 16:25:00,326 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/data-quality
+2025-08-07 16:25:00,698 - INFO -     - Using Requests for: https://mosdac.gov.in/data-quality?sort=asc&order=modified
+2025-08-07 16:25:01,107 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/data-quality?sort=asc&order=modified
+2025-08-07 16:25:01,417 - INFO -     - Using Requests for: https://mosdac.gov.in/data-quality?sort=desc&order=Display%20name
+2025-08-07 16:25:01,828 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/data-quality?sort=desc&order=Display%20name
+2025-08-07 16:25:02,308 - INFO - 
+🔍 Processing Satellite Section: weather-reports
+2025-08-07 16:25:02,489 - INFO -   🔗 Found 3 subpages for 'weather-reports'. Checking for updates...
+2025-08-07 16:25:02,489 - INFO -     - Using Requests for: https://mosdac.gov.in/weather-reports
+2025-08-07 16:25:02,642 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/weather-reports
+2025-08-07 16:25:02,955 - INFO -     - Using Requests for: https://mosdac.gov.in/weather-reports?sort=asc&order=modified
+2025-08-07 16:25:03,094 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/weather-reports?sort=asc&order=modified
+2025-08-07 16:25:04,246 - INFO -     - Using Requests for: https://mosdac.gov.in/weather-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:05,200 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/weather-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:06,496 - INFO - 
+🔍 Processing Satellite Section: atlases
+2025-08-07 16:25:06,915 - INFO -   🔗 Found 4 subpages for 'atlases'. Checking for updates...
+2025-08-07 16:25:06,915 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases
+2025-08-07 16:25:07,120 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/atlases
+2025-08-07 16:25:07,424 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases?sort=asc&order=modified
+2025-08-07 16:25:07,604 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/atlases?sort=asc&order=modified
+2025-08-07 16:25:07,957 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases?sort=asc&order=size
+2025-08-07 16:25:08,084 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/atlases?sort=asc&order=size
+2025-08-07 16:25:08,445 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases?sort=desc&order=Display%20name
+2025-08-07 16:25:08,602 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/atlases?sort=desc&order=Display%20name
+2025-08-07 16:25:08,962 - INFO - 
+🔍 Processing Satellite Section: tools
+2025-08-07 16:25:09,212 - INFO -   🔗 Found 2 subpages for 'tools'. Checking for updates...
+2025-08-07 16:25:09,212 - INFO -     - Using Requests for: https://mosdac.gov.in/tools
+2025-08-07 16:25:09,377 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/tools
+2025-08-07 16:25:09,750 - INFO -     - Using Requests for: https://mosdac.gov.in/tools?order=field_platform&sort=asc
+2025-08-07 16:25:09,878 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/tools?order=field_platform&sort=asc
+2025-08-07 16:25:10,207 - INFO - 
+🔍 Processing Satellite Section: sitemap
+2025-08-07 16:25:10,379 - INFO -   🔗 Found 1 subpages for 'sitemap'. Checking for updates...
+2025-08-07 16:25:10,379 - INFO -     - Using Requests for: https://mosdac.gov.in/sitemap
+2025-08-07 16:25:10,586 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/sitemap
+2025-08-07 16:25:10,976 - INFO - 
+🔍 Processing Satellite Section: help
+2025-08-07 16:25:11,242 - INFO -   🔗 Found 1 subpages for 'help'. Checking for updates...
+2025-08-07 16:25:11,242 - INFO -     - Using Requests for: https://mosdac.gov.in/help
+2025-08-07 16:25:11,444 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/help
+2025-08-07 16:25:11,809 - INFO - 
+🔍 Processing Satellite Section: insat-3dr
+2025-08-07 16:25:11,990 - INFO -   🔗 Found 6 subpages for 'insat-3dr'. Checking for updates...
+2025-08-07 16:25:11,990 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr
+2025-08-07 16:25:12,135 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr
+2025-08-07 16:25:12,135 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-introduction
+2025-08-07 16:25:12,271 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr-introduction
+2025-08-07 16:25:12,271 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-objectives
+2025-08-07 16:25:12,440 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr-objectives
+2025-08-07 16:25:12,441 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-payloads
+2025-08-07 16:25:12,605 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr-payloads
+2025-08-07 16:25:12,605 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-references
+2025-08-07 16:25:12,749 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr-references
+2025-08-07 16:25:12,749 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr-spacecraft
+2025-08-07 16:25:12,916 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr-spacecraft
+2025-08-07 16:25:12,917 - INFO - 
+🔍 Processing Satellite Section: insat-3d
+2025-08-07 16:25:13,339 - INFO -   🔗 Found 8 subpages for 'insat-3d'. Checking for updates...
+2025-08-07 16:25:13,339 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d
+2025-08-07 16:25:13,773 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3d
+2025-08-07 16:25:13,773 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-introduction
+2025-08-07 16:25:13,906 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3d-introduction
+2025-08-07 16:25:13,907 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-objectives
+2025-08-07 16:25:14,041 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3d-objectives
+2025-08-07 16:25:14,041 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-payloads
+2025-08-07 16:25:14,244 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3d-payloads
+2025-08-07 16:25:14,244 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-references
+2025-08-07 16:25:14,383 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3d-references
+2025-08-07 16:25:14,383 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3d-spacecraft
+2025-08-07 16:25:14,517 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3d-spacecraft
+2025-08-07 16:25:14,517 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3dr
+2025-08-07 16:25:14,654 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3dr
+2025-08-07 16:25:14,655 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3ds
+2025-08-07 16:25:14,792 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3ds
+2025-08-07 16:25:14,793 - INFO - 
+🔍 Processing Satellite Section: kalpana-1
+2025-08-07 16:25:14,948 - INFO -   🔗 Found 5 subpages for 'kalpana-1'. Checking for updates...
+2025-08-07 16:25:14,948 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1
+2025-08-07 16:25:15,089 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/kalpana-1
+2025-08-07 16:25:15,089 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-introduction
+2025-08-07 16:25:15,252 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/kalpana-1-introduction
+2025-08-07 16:25:15,253 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-objectives
+2025-08-07 16:25:15,914 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/kalpana-1-objectives
+2025-08-07 16:25:15,914 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-payloads
+2025-08-07 16:25:16,851 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/kalpana-1-payloads
+2025-08-07 16:25:16,851 - INFO -     - Using Requests for: https://mosdac.gov.in/kalpana-1-spacecraft
+2025-08-07 16:25:17,218 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/kalpana-1-spacecraft
+2025-08-07 16:25:17,218 - INFO - 
+🔍 Processing Satellite Section: insat-3a
+2025-08-07 16:25:17,878 - INFO -   🔗 Found 5 subpages for 'insat-3a'. Checking for updates...
+2025-08-07 16:25:17,878 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a
+2025-08-07 16:25:18,527 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3a
+2025-08-07 16:25:18,529 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-introduction
+2025-08-07 16:25:18,931 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3a-introduction
+2025-08-07 16:25:18,932 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-objectives
+2025-08-07 16:25:19,056 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3a-objectives
+2025-08-07 16:25:19,056 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-payloads
+2025-08-07 16:25:19,196 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3a-payloads
+2025-08-07 16:25:19,196 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3a-spacecraft
+2025-08-07 16:25:19,335 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3a-spacecraft
+2025-08-07 16:25:19,335 - INFO - 
+🔍 Processing Satellite Section: megha-tropiques
+2025-08-07 16:25:19,480 - INFO -   🔗 Found 6 subpages for 'megha-tropiques'. Checking for updates...
+2025-08-07 16:25:19,481 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques
+2025-08-07 16:25:19,628 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/megha-tropiques
+2025-08-07 16:25:19,628 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-introduction
+2025-08-07 16:25:19,823 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/megha-tropiques-introduction
+2025-08-07 16:25:19,823 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-objectives
+2025-08-07 16:25:19,953 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/megha-tropiques-objectives
+2025-08-07 16:25:19,954 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-payloads
+2025-08-07 16:25:20,116 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/megha-tropiques-payloads
+2025-08-07 16:25:20,116 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-references
+2025-08-07 16:25:20,261 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/megha-tropiques-references
+2025-08-07 16:25:20,261 - INFO -     - Using Requests for: https://mosdac.gov.in/megha-tropiques-spacecraft
+2025-08-07 16:25:20,402 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/megha-tropiques-spacecraft
+2025-08-07 16:25:20,402 - INFO - 
+🔍 Processing Satellite Section: saral-altika
+2025-08-07 16:25:20,542 - INFO -   🔗 Found 5 subpages for 'saral-altika'. Checking for updates...
+2025-08-07 16:25:20,542 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika
+2025-08-07 16:25:20,737 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/saral-altika
+2025-08-07 16:25:20,738 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-introduction
+2025-08-07 16:25:20,868 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/saral-altika-introduction
+2025-08-07 16:25:20,868 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-objectives
+2025-08-07 16:25:21,003 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/saral-altika-objectives
+2025-08-07 16:25:21,003 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-payloads
+2025-08-07 16:25:21,142 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/saral-altika-payloads
+2025-08-07 16:25:21,142 - INFO -     - Using Requests for: https://mosdac.gov.in/saral-altika-spacecraft
+2025-08-07 16:25:21,282 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/saral-altika-spacecraft
+2025-08-07 16:25:21,283 - INFO - 
+🔍 Processing Satellite Section: oceansat-2
+2025-08-07 16:25:21,422 - INFO -   🔗 Found 6 subpages for 'oceansat-2'. Checking for updates...
+2025-08-07 16:25:21,422 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2
+2025-08-07 16:25:21,566 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-2
+2025-08-07 16:25:21,566 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-introduction
+2025-08-07 16:25:21,701 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-2-introduction
+2025-08-07 16:25:21,702 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-objectives
+2025-08-07 16:25:21,823 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-2-objectives
+2025-08-07 16:25:21,824 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-payloads
+2025-08-07 16:25:21,968 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-2-payloads
+2025-08-07 16:25:21,968 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-references
+2025-08-07 16:25:22,148 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-2-references
+2025-08-07 16:25:22,148 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-2-spacecraft
+2025-08-07 16:25:22,309 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-2-spacecraft
+2025-08-07 16:25:22,309 - INFO - 
+🔍 Processing Satellite Section: oceansat-3
+2025-08-07 16:25:22,485 - INFO -   🔗 Found 5 subpages for 'oceansat-3'. Checking for updates...
+2025-08-07 16:25:22,485 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3
+2025-08-07 16:25:22,712 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-3
+2025-08-07 16:25:22,713 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-introduction
+2025-08-07 16:25:22,848 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-3-introduction
+2025-08-07 16:25:22,849 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-objectives
+2025-08-07 16:25:22,990 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-3-objectives
+2025-08-07 16:25:22,991 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-payloads
+2025-08-07 16:25:23,121 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-3-payloads
+2025-08-07 16:25:23,122 - INFO -     - Using Requests for: https://mosdac.gov.in/oceansat-3-spacecraft
+2025-08-07 16:25:23,248 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceansat-3-spacecraft
+2025-08-07 16:25:23,248 - INFO - 
+🔍 Processing Satellite Section: insat-3ds
+2025-08-07 16:25:23,433 - INFO -   🔗 Found 1 subpages for 'insat-3ds'. Checking for updates...
+2025-08-07 16:25:23,433 - INFO -     - Using Requests for: https://mosdac.gov.in/insat-3ds
+2025-08-07 16:25:23,584 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insat-3ds
+2025-08-07 16:25:23,584 - INFO - 
+🔍 Processing Satellite Section: scatsat-1
+2025-08-07 16:25:23,744 - INFO -   🔗 Found 6 subpages for 'scatsat-1'. Checking for updates...
+2025-08-07 16:25:23,744 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1
+2025-08-07 16:25:23,873 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/scatsat-1
+2025-08-07 16:25:23,873 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-introduction
+2025-08-07 16:25:24,009 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/scatsat-1-introduction
+2025-08-07 16:25:24,009 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-objectives
+2025-08-07 16:25:24,181 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/scatsat-1-objectives
+2025-08-07 16:25:24,182 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-payloads
+2025-08-07 16:25:24,339 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/scatsat-1-payloads
+2025-08-07 16:25:24,339 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-references
+2025-08-07 16:25:24,491 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/scatsat-1-references
+2025-08-07 16:25:24,491 - INFO -     - Using Requests for: https://mosdac.gov.in/scatsat-1-spacecraft
+2025-08-07 16:25:24,645 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/scatsat-1-spacecraft
+2025-08-07 16:25:24,646 - INFO - 
+🔍 Processing Satellite Section: bayesian-based-mt-saphir-rainfall
+2025-08-07 16:25:24,822 - INFO -   🔗 Found 1 subpages for 'bayesian-based-mt-saphir-rainfall'. Checking for updates...
+2025-08-07 16:25:24,822 - INFO -     - Using Requests for: https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall
+2025-08-07 16:25:24,996 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall
+2025-08-07 16:25:24,997 - INFO - 
+🔍 Processing Satellite Section: gps-derived-integrated-water-vapour
+2025-08-07 16:25:25,192 - INFO -   🔗 Found 1 subpages for 'gps-derived-integrated-water-vapour'. Checking for updates...
+2025-08-07 16:25:25,193 - INFO -     - Using Requests for: https://mosdac.gov.in/gps-derived-integrated-water-vapour
+2025-08-07 16:25:25,363 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/gps-derived-integrated-water-vapour
+2025-08-07 16:25:25,364 - INFO - 
+🔍 Processing Satellite Section: gsmap-isro-rain
+2025-08-07 16:25:25,538 - INFO -   🔗 Found 1 subpages for 'gsmap-isro-rain'. Checking for updates...
+2025-08-07 16:25:25,539 - INFO -     - Using Requests for: https://mosdac.gov.in/gsmap-isro-rain
+2025-08-07 16:25:25,713 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/gsmap-isro-rain
+2025-08-07 16:25:25,713 - INFO - 
+🔍 Processing Satellite Section: meteosat8-cloud-properties
+2025-08-07 16:25:25,912 - INFO -   🔗 Found 1 subpages for 'meteosat8-cloud-properties'. Checking for updates...
+2025-08-07 16:25:25,912 - INFO -     - Using Requests for: https://mosdac.gov.in/meteosat8-cloud-properties
+2025-08-07 16:25:26,077 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/meteosat8-cloud-properties
+2025-08-07 16:25:26,077 - INFO - 
+🔍 Processing Satellite Section: 3d-volumetric-terls-dwrproduct
+2025-08-07 16:25:26,275 - INFO -   🔗 Found 1 subpages for '3d-volumetric-terls-dwrproduct'. Checking for updates...
+2025-08-07 16:25:26,275 - INFO -     - Using Requests for: https://mosdac.gov.in/3d-volumetric-terls-dwrproduct
+2025-08-07 16:25:26,465 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/3d-volumetric-terls-dwrproduct
+2025-08-07 16:25:26,465 - INFO - 
+🔍 Processing Satellite Section: inland-water-height
+2025-08-07 16:25:26,648 - INFO -   🔗 Found 1 subpages for 'inland-water-height'. Checking for updates...
+2025-08-07 16:25:26,648 - INFO -     - Using Requests for: https://mosdac.gov.in/inland-water-height
+2025-08-07 16:25:26,846 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/inland-water-height
+2025-08-07 16:25:26,847 - INFO - 
+🔍 Processing Satellite Section: river-discharge
+2025-08-07 16:25:27,030 - INFO -   🔗 Found 1 subpages for 'river-discharge'. Checking for updates...
+2025-08-07 16:25:27,031 - INFO -     - Using Requests for: https://mosdac.gov.in/river-discharge
+2025-08-07 16:25:27,190 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/river-discharge
+2025-08-07 16:25:27,190 - INFO - 
+🔍 Processing Satellite Section: soil-moisture-0
+2025-08-07 16:25:27,398 - INFO -   🔗 Found 1 subpages for 'soil-moisture-0'. Checking for updates...
+2025-08-07 16:25:27,399 - INFO -     - Using Requests for: https://mosdac.gov.in/soil-moisture-0
+2025-08-07 16:25:28,256 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/soil-moisture-0
+2025-08-07 16:25:28,256 - INFO - 
+🔍 Processing Satellite Section: global-ocean-surface-current
+2025-08-07 16:25:28,942 - INFO -   🔗 Found 1 subpages for 'global-ocean-surface-current'. Checking for updates...
+2025-08-07 16:25:28,942 - INFO -     - Using Requests for: https://mosdac.gov.in/global-ocean-surface-current
+2025-08-07 16:25:29,589 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/global-ocean-surface-current
+2025-08-07 16:25:29,589 - INFO - 
+🔍 Processing Satellite Section: high-resolution-sea-surface-salinity
+2025-08-07 16:25:30,261 - INFO -   🔗 Found 1 subpages for 'high-resolution-sea-surface-salinity'. Checking for updates...
+2025-08-07 16:25:30,261 - INFO -     - Using Requests for: https://mosdac.gov.in/high-resolution-sea-surface-salinity
+2025-08-07 16:25:30,974 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/high-resolution-sea-surface-salinity
+2025-08-07 16:25:30,974 - INFO - 
+🔍 Processing Satellite Section: indian-mainland-coastal-product
+2025-08-07 16:25:31,139 - INFO -   🔗 Found 1 subpages for 'indian-mainland-coastal-product'. Checking for updates...
+2025-08-07 16:25:31,139 - INFO -     - Using Requests for: https://mosdac.gov.in/indian-mainland-coastal-product
+2025-08-07 16:25:31,315 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/indian-mainland-coastal-product
+2025-08-07 16:25:31,315 - INFO - 
+🔍 Processing Satellite Section: ocean-subsurface
+2025-08-07 16:25:31,551 - INFO -   🔗 Found 1 subpages for 'ocean-subsurface'. Checking for updates...
+2025-08-07 16:25:31,551 - INFO -     - Using Requests for: https://mosdac.gov.in/ocean-subsurface
+2025-08-07 16:25:31,695 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/ocean-subsurface
+2025-08-07 16:25:31,696 - INFO - 
+🔍 Processing Satellite Section: oceanic-eddies-detection
+2025-08-07 16:25:31,876 - INFO -   🔗 Found 1 subpages for 'oceanic-eddies-detection'. Checking for updates...
+2025-08-07 16:25:31,877 - INFO -     - Using Requests for: https://mosdac.gov.in/oceanic-eddies-detection
+2025-08-07 16:25:32,010 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/oceanic-eddies-detection
+2025-08-07 16:25:32,010 - INFO - 
+🔍 Processing Satellite Section: sea-ice-occurrence-probability
+2025-08-07 16:25:32,193 - INFO -   🔗 Found 1 subpages for 'sea-ice-occurrence-probability'. Checking for updates...
+2025-08-07 16:25:32,193 - INFO -     - Using Requests for: https://mosdac.gov.in/sea-ice-occurrence-probability
+2025-08-07 16:25:32,358 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/sea-ice-occurrence-probability
+2025-08-07 16:25:32,358 - INFO - 
+🔍 Processing Satellite Section: wave-based-renewable-energy
+2025-08-07 16:25:32,577 - INFO -   🔗 Found 1 subpages for 'wave-based-renewable-energy'. Checking for updates...
+2025-08-07 16:25:32,577 - INFO -     - Using Requests for: https://mosdac.gov.in/wave-based-renewable-energy
+2025-08-07 16:25:32,701 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/wave-based-renewable-energy
+2025-08-07 16:25:32,702 - INFO - 
+🔍 Processing Satellite Section: rss-feed
+2025-08-07 16:25:32,877 - INFO -   🔗 Found 1 subpages for 'rss-feed'. Checking for updates...
+2025-08-07 16:25:32,878 - INFO -     - Using Requests for: https://mosdac.gov.in/rss-feed
+2025-08-07 16:25:33,031 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/rss-feed
+2025-08-07 16:25:33,031 - INFO - 
+🔍 Processing Satellite Section: insitu
+2025-08-07 16:25:33,206 - INFO -   🔗 Found 3 subpages for 'insitu'. Checking for updates...
+2025-08-07 16:25:33,207 - INFO -     - Using Requests for: https://mosdac.gov.in/insitu
+2025-08-07 16:25:33,342 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insitu
+2025-08-07 16:25:33,342 - INFO -     - Using Requests for: https://mosdac.gov.in/insitu?sort=asc&order=modified
+2025-08-07 16:25:33,500 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insitu?sort=asc&order=modified
+2025-08-07 16:25:33,501 - INFO -     - Using Requests for: https://mosdac.gov.in/insitu?sort=desc&order=Display%20name
+2025-08-07 16:25:33,779 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/insitu?sort=desc&order=Display%20name
+2025-08-07 16:25:33,780 - INFO - 
+🔍 Processing Satellite Section: calibration-reports
+2025-08-07 16:25:33,966 - INFO -   🔗 Found 3 subpages for 'calibration-reports'. Checking for updates...
+2025-08-07 16:25:33,966 - INFO -     - Using Requests for: https://mosdac.gov.in/calibration-reports
+2025-08-07 16:25:34,124 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/calibration-reports
+2025-08-07 16:25:34,124 - INFO -     - Using Requests for: https://mosdac.gov.in/calibration-reports?sort=asc&order=modified
+2025-08-07 16:25:34,287 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/calibration-reports?sort=asc&order=modified
+2025-08-07 16:25:34,288 - INFO -     - Using Requests for: https://mosdac.gov.in/calibration-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:34,423 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/calibration-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:34,423 - INFO - 
+🔍 Processing Satellite Section: validation-reports
+2025-08-07 16:25:34,605 - INFO -   🔗 Found 3 subpages for 'validation-reports'. Checking for updates...
+2025-08-07 16:25:34,606 - INFO -     - Using Requests for: https://mosdac.gov.in/validation-reports
+2025-08-07 16:25:34,737 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/validation-reports
+2025-08-07 16:25:34,737 - INFO -     - Using Requests for: https://mosdac.gov.in/validation-reports?sort=asc&order=modified
+2025-08-07 16:25:34,878 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/validation-reports?sort=asc&order=modified
+2025-08-07 16:25:34,879 - INFO -     - Using Requests for: https://mosdac.gov.in/validation-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:35,021 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/validation-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:35,022 - INFO - 
+🔍 Processing Satellite Section: data-quality
+2025-08-07 16:25:35,215 - INFO -   🔗 Found 3 subpages for 'data-quality'. Checking for updates...
+2025-08-07 16:25:35,215 - INFO -     - Using Requests for: https://mosdac.gov.in/data-quality
+2025-08-07 16:25:35,339 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/data-quality
+2025-08-07 16:25:35,340 - INFO -     - Using Requests for: https://mosdac.gov.in/data-quality?sort=asc&order=modified
+2025-08-07 16:25:35,490 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/data-quality?sort=asc&order=modified
+2025-08-07 16:25:35,491 - INFO -     - Using Requests for: https://mosdac.gov.in/data-quality?sort=desc&order=Display%20name
+2025-08-07 16:25:35,646 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/data-quality?sort=desc&order=Display%20name
+2025-08-07 16:25:35,646 - INFO - 
+🔍 Processing Satellite Section: weather-reports
+2025-08-07 16:25:35,836 - INFO -   🔗 Found 3 subpages for 'weather-reports'. Checking for updates...
+2025-08-07 16:25:35,837 - INFO -     - Using Requests for: https://mosdac.gov.in/weather-reports
+2025-08-07 16:25:35,996 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/weather-reports
+2025-08-07 16:25:35,996 - INFO -     - Using Requests for: https://mosdac.gov.in/weather-reports?sort=asc&order=modified
+2025-08-07 16:25:36,117 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/weather-reports?sort=asc&order=modified
+2025-08-07 16:25:36,118 - INFO -     - Using Requests for: https://mosdac.gov.in/weather-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:36,280 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/weather-reports?sort=desc&order=Display%20name
+2025-08-07 16:25:36,280 - INFO - 
+🔍 Processing Satellite Section: atlases
+2025-08-07 16:25:36,449 - INFO -   🔗 Found 4 subpages for 'atlases'. Checking for updates...
+2025-08-07 16:25:36,449 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases
+2025-08-07 16:25:36,587 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/atlases
+2025-08-07 16:25:36,587 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases?sort=asc&order=modified
+2025-08-07 16:25:36,742 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/atlases?sort=asc&order=modified
+2025-08-07 16:25:36,742 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases?sort=asc&order=size
+2025-08-07 16:25:36,880 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/atlases?sort=asc&order=size
+2025-08-07 16:25:36,881 - INFO -     - Using Requests for: https://mosdac.gov.in/atlases?sort=desc&order=Display%20name
+2025-08-07 16:25:37,006 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/atlases?sort=desc&order=Display%20name
+2025-08-07 16:25:37,006 - INFO - 
+🔍 Processing Satellite Section: tools
+2025-08-07 16:25:37,174 - INFO -   🔗 Found 2 subpages for 'tools'. Checking for updates...
+2025-08-07 16:25:37,174 - INFO -     - Using Requests for: https://mosdac.gov.in/tools
+2025-08-07 16:25:37,325 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/tools
+2025-08-07 16:25:37,325 - INFO -     - Using Requests for: https://mosdac.gov.in/tools?order=field_platform&sort=asc
+2025-08-07 16:25:37,467 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/tools?order=field_platform&sort=asc
+2025-08-07 16:25:37,467 - INFO - 
+🔍 Processing Satellite Section: sitemap
+2025-08-07 16:25:37,617 - INFO -   🔗 Found 1 subpages for 'sitemap'. Checking for updates...
+2025-08-07 16:25:37,618 - INFO -     - Using Requests for: https://mosdac.gov.in/sitemap
+2025-08-07 16:25:37,773 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/sitemap
+2025-08-07 16:25:37,774 - INFO - 
+🔍 Processing Satellite Section: help
+2025-08-07 16:25:38,023 - INFO -   🔗 Found 1 subpages for 'help'. Checking for updates...
+2025-08-07 16:25:38,023 - INFO -     - Using Requests for: https://mosdac.gov.in/help
+2025-08-07 16:25:38,153 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/help
+2025-08-07 16:25:38,153 - INFO - 
+🔍 Processing Satellite Section: mosdac-feedback
+2025-08-07 16:25:38,612 - INFO -   🔗 Found 1 subpages for 'mosdac-feedback'. Checking for updates...
+2025-08-07 16:25:38,613 - INFO -     - Using Requests for: https://mosdac.gov.in/mosdac-feedback
+2025-08-07 16:25:39,096 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/mosdac-feedback
+2025-08-07 16:25:39,376 - INFO - 
+🔍 Processing Satellite Section: about-us
+2025-08-07 16:25:40,315 - INFO -   🔗 Found 1 subpages for 'about-us'. Checking for updates...
+2025-08-07 16:25:40,315 - INFO -     - Using Requests for: https://mosdac.gov.in/about-us
+2025-08-07 16:25:41,280 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/about-us
+2025-08-07 16:25:42,621 - INFO - 
+🔍 Processing Satellite Section: contact-us
+2025-08-07 16:25:43,073 - INFO -   🔗 Found 1 subpages for 'contact-us'. Checking for updates...
+2025-08-07 16:25:43,073 - INFO -     - Using Requests for: https://mosdac.gov.in/contact-us
+2025-08-07 16:25:43,204 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/contact-us
+2025-08-07 16:25:43,657 - INFO - 
+🔍 Processing Satellite Section: copyright-policy
+2025-08-07 16:25:43,796 - INFO -   🔗 Found 1 subpages for 'copyright-policy'. Checking for updates...
+2025-08-07 16:25:43,796 - INFO -     - Using Requests for: https://mosdac.gov.in/copyright-policy
+2025-08-07 16:25:44,000 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/copyright-policy
+2025-08-07 16:25:44,328 - INFO - 
+🔍 Processing Satellite Section: data-access-policy
+2025-08-07 16:25:44,500 - INFO -   🔗 Found 1 subpages for 'data-access-policy'. Checking for updates...
+2025-08-07 16:25:44,501 - INFO -     - Using Requests for: https://mosdac.gov.in/data-access-policy
+2025-08-07 16:25:44,681 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/data-access-policy
+2025-08-07 16:25:45,588 - INFO - 
+🔍 Processing Satellite Section: hyperlink-policy
+2025-08-07 16:25:45,728 - INFO -   🔗 Found 1 subpages for 'hyperlink-policy'. Checking for updates...
+2025-08-07 16:25:45,729 - INFO -     - Using Requests for: https://mosdac.gov.in/hyperlink-policy
+2025-08-07 16:25:45,871 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/hyperlink-policy
+2025-08-07 16:25:46,171 - INFO - 
+🔍 Processing Satellite Section: privacy-policy
+2025-08-07 16:25:46,680 - INFO -   🔗 Found 1 subpages for 'privacy-policy'. Checking for updates...
+2025-08-07 16:25:46,681 - INFO -     - Using Requests for: https://mosdac.gov.in/privacy-policy
+2025-08-07 16:25:46,807 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/privacy-policy
+2025-08-07 16:25:47,085 - INFO - 
+🔍 Processing Satellite Section: website-policies
+2025-08-07 16:25:47,234 - INFO -   🔗 Found 1 subpages for 'website-policies'. Checking for updates...
+2025-08-07 16:25:47,234 - INFO -     - Using Requests for: https://mosdac.gov.in/website-policies
+2025-08-07 16:25:47,394 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/website-policies
+2025-08-07 16:25:47,674 - INFO - 
+🔍 Processing Satellite Section: terms-conditions
+2025-08-07 16:25:47,830 - INFO -   🔗 Found 1 subpages for 'terms-conditions'. Checking for updates...
+2025-08-07 16:25:47,830 - INFO -     - Using Requests for: https://mosdac.gov.in/terms-conditions
+2025-08-07 16:25:47,961 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/terms-conditions
+2025-08-07 16:25:48,331 - INFO - 
+🔍 Processing Satellite Section: faq-page
+2025-08-07 16:25:48,579 - INFO -   🔗 Found 1 subpages for 'faq-page'. Checking for updates...
+2025-08-07 16:25:48,580 - INFO -     - Using Selenium for: https://mosdac.gov.in/faq-page
+2025-08-07 16:25:51,579 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/faq-page
+2025-08-07 16:25:53,305 - INFO - 
+🔍 Processing Satellite Section: mosdac-feedback
+2025-08-07 16:25:54,884 - INFO -   🔗 Found 1 subpages for 'mosdac-feedback'. Checking for updates...
+2025-08-07 16:25:54,884 - INFO -     - Using Requests for: https://mosdac.gov.in/mosdac-feedback
+2025-08-07 16:25:55,341 - INFO -       🔄 Scraping (updated content): https://mosdac.gov.in/mosdac-feedback
+2025-08-07 16:25:55,688 - INFO - 
+🔍 Processing Satellite Section: about-us
+2025-08-07 16:25:55,871 - INFO -   🔗 Found 1 subpages for 'about-us'. Checking for updates...
+2025-08-07 16:25:55,872 - INFO -     - Using Requests for: https://mosdac.gov.in/about-us
+2025-08-07 16:25:56,029 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/about-us
+2025-08-07 16:25:56,029 - INFO - 
+🔍 Processing Satellite Section: contact-us
+2025-08-07 16:25:56,174 - INFO -   🔗 Found 1 subpages for 'contact-us'. Checking for updates...
+2025-08-07 16:25:56,174 - INFO -     - Using Requests for: https://mosdac.gov.in/contact-us
+2025-08-07 16:25:56,300 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/contact-us
+2025-08-07 16:25:56,300 - INFO - 
+🔍 Processing Satellite Section: copyright-policy
+2025-08-07 16:25:56,447 - INFO -   🔗 Found 1 subpages for 'copyright-policy'. Checking for updates...
+2025-08-07 16:25:56,447 - INFO -     - Using Requests for: https://mosdac.gov.in/copyright-policy
+2025-08-07 16:25:56,604 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/copyright-policy
+2025-08-07 16:25:56,605 - INFO - 
+🔍 Processing Satellite Section: data-access-policy
+2025-08-07 16:25:56,746 - INFO -   🔗 Found 1 subpages for 'data-access-policy'. Checking for updates...
+2025-08-07 16:25:56,746 - INFO -     - Using Requests for: https://mosdac.gov.in/data-access-policy
+2025-08-07 16:25:56,869 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/data-access-policy
+2025-08-07 16:25:56,869 - INFO - 
+🔍 Processing Satellite Section: hyperlink-policy
+2025-08-07 16:25:57,034 - INFO -   🔗 Found 1 subpages for 'hyperlink-policy'. Checking for updates...
+2025-08-07 16:25:57,035 - INFO -     - Using Requests for: https://mosdac.gov.in/hyperlink-policy
+2025-08-07 16:25:57,293 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/hyperlink-policy
+2025-08-07 16:25:57,293 - INFO - 
+🔍 Processing Satellite Section: privacy-policy
+2025-08-07 16:25:57,475 - INFO -   🔗 Found 1 subpages for 'privacy-policy'. Checking for updates...
+2025-08-07 16:25:57,475 - INFO -     - Using Requests for: https://mosdac.gov.in/privacy-policy
+2025-08-07 16:25:57,617 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/privacy-policy
+2025-08-07 16:25:57,617 - INFO - 
+🔍 Processing Satellite Section: website-policies
+2025-08-07 16:25:57,785 - INFO -   🔗 Found 1 subpages for 'website-policies'. Checking for updates...
+2025-08-07 16:25:57,785 - INFO -     - Using Requests for: https://mosdac.gov.in/website-policies
+2025-08-07 16:25:57,950 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/website-policies
+2025-08-07 16:25:57,950 - INFO - 
+🔍 Processing Satellite Section: terms-conditions
+2025-08-07 16:25:58,138 - INFO -   🔗 Found 1 subpages for 'terms-conditions'. Checking for updates...
+2025-08-07 16:25:58,139 - INFO -     - Using Requests for: https://mosdac.gov.in/terms-conditions
+2025-08-07 16:25:58,325 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/terms-conditions
+2025-08-07 16:25:58,325 - INFO - 
+🔍 Processing Satellite Section: faq-page
+2025-08-07 16:25:58,639 - INFO -   🔗 Found 1 subpages for 'faq-page'. Checking for updates...
+2025-08-07 16:25:58,639 - INFO -     - Using Selenium for: https://mosdac.gov.in/faq-page
+2025-08-07 16:26:00,925 - INFO -       ✅ Skipping (no changes): https://mosdac.gov.in/faq-page
+2025-08-07 16:26:00,926 - INFO - 
+Shutting down Selenium WebDriver...
+2025-08-07 16:26:03,088 - INFO - 
+🎉 Done! All scraped data has been saved to: full_satellite_data.json
+2025-08-07 16:26:03,089 - INFO - ✅ Content hashes saved to: content_metadata.json
