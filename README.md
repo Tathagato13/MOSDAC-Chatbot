@@ -11,17 +11,16 @@ A Python-based chatbot project with web integration. This repository contains th
 
 - **artifacts/** → Generated artifacts or model outputs  
 - **chatbot_logic/** → Core chatbot logic and Python modules  
-- **data/** → Datasets or resources (keep only samples, not large dumps)  
+- **data/** → Datasets or resources 
 - **files/** → Uploaded or downloadable files for the app  
-- **logs/** → Application logs (optional, usually ignored in production)  
+- **logs/** → Application logs  
 - **scripts/** → Helper or utility scripts  
 - **static/** → Static assets (CSS, JS, images)  
 - **templates/** → HTML templates for frontend  
 
 Other files:  
 - **main.py** → Entry point of the project  
-- **requirements.txt** → Python dependencies  
-- **.env.example** → Example environment variables (rename to `.env` for local use)  
+- **requirements.txt** → Python dependencies   
 - **.gitignore** → Specifies files and folders to ignore in Git  
 
 ---
