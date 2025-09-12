@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI ChatBot</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="chat-header">
+      <i class="fas fa-robot"></i> AI ChatBot
+    </div>
+    <div id="message-section" class="chat-body">
+      <div class="welcome-message">
+        <h2>Welcome to MOSDAC ChatBot</h2>
+        <p>Ask anything and I'll do my best to respond whatever in MOSDAC!</p>
+      </div>
+    </div>
+    <div class="chat-input">
+      <input id="input" type="text" placeholder="Message Chatbot..." />
+      <button onclick="sendMessage()"><i class="fas fa-paper-plane"></i></button>
+    </div>
+  </div>
+  <script src="/static/script.js"></script>
+</body>
+</html>
