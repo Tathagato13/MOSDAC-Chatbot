@@ -12,33 +12,81 @@ A Python-based chatbot project with web integration. This repository contains th
 
 Directories
 
-# artifacts/ → Stores generated embeddings, vector indexes, or model output files
-chatbot_logic/ → Core chatbot logic (retriever, query engine, vector store, chunker, scraper, file extractors)
-data/ → Raw scraped pages, cleaned text, metadata, and knowledge JSON files
-files/ → Any uploaded/downloadable files used during testing or demo
-logs/ → Scraper logs, runtime logs, and system diagnostics
-scripts/ → Helper utilities, ingestion scripts, testing scripts, batch operations
-static/ → Frontend static assets (CSS, JS, images, favicon)
-templates/ → HTML templates for the frontend UI
+artifacts/
+Generated artifacts such as embeddings, vector indexes, or model outputs.
+
+chatbot_logic/
+Core chatbot logic including retriever, query engine, vector store, chunker, scraper, and file extractors.
+
+data/
+Datasets, raw scraped pages, cleaned text, and metadata JSON files.
+
+files/
+Uploaded or downloadable files used by the application.
+
+logs/
+Application logs, scraper logs, and diagnostic outputs.
+
+scripts/
+Helper or utility scripts for ingestion, batch testing, or automation.
+
+static/
+Frontend static assets (CSS, JavaScript, images, favicon).
+
+templates/
+HTML templates used by the frontend UI.
 
 Files (Root Level)
 
-main.py → Entry point; starts the chatbot backend or triggers ingestion workflows
-query_engine.py → Coordinates retrieval and LLM response generation with citations
-retriever.py → Performs similarity search on the vector store; returns top-k chunks
-vector_store.py → Handles embedding, index creation, loading, saving, and similarity search
-mosdac_scraper.py → Scrapes MOSDAC website pages; saves raw and cleaned content
-chunker.py → Splits cleaned text into semantic chunks with metadata
-file_extractor.py → Extracts structured text from HTML/PDF and normalizes content
-ask_question.py → Simple CLI tool to ask one question and get an answer
-ask_question_multi.py → Multi-query / interactive CLI for repeated testing
-full_satellite_kg_with_faqs.json → Knowledge graph + FAQs used as a prebuilt dataset
-content_metadata.json → Metadata for all scraped/ingested files (URLs, titles, hashes)
-scraper.log → Log output produced during scraping runs
-index.html → Main user-interface page for the chatbot
-script.js → Frontend logic to send user queries to backend and display answers
-style.css → UI styling for chatbot frontend
-requirements.txt → List of Python dependencies required for the project
-.gitignore → Specifies which generated files and folders Git must ignore
+main.py
+Entry point of the project; runs the backend server and ingestion workflows.
+
+query_engine.py
+Handles LLM prompting, context construction, and answer generation with citations.
+
+retriever.py
+Performs similarity search on the vector store and returns ranked text chunks.
+
+vector_store.py
+Manages embedding creation, vector index building, saving, loading, and searching.
+
+mosdac_scraper.py
+Scraper/crawler for MOSDAC pages; collects raw HTML and cleaned text.
+
+chunker.py
+Splits extracted text into smaller semantic chunks with metadata for retrieval.
+
+file_extractor.py
+Extracts text from HTML/PDF and performs cleaning, normalization, and formatting.
+
+ask_question.py
+Command-line tool for answering a single query via the chatbot pipeline.
+
+ask_question_multi.py
+CLI tool for running multiple queries interactively or in batches.
+
+full_satellite_kg_with_faqs.json
+Pre-built knowledge graph and FAQ dataset used for testing/demo.
+
+content_metadata.json
+Metadata file storing information about all scraped or processed pages.
+
+scraper.log
+Log file generated during scraping (should be ignored in production).
+
+index.html
+Main chatbot user interface served to the browser.
+
+script.js
+Frontend logic for handling user input and sending requests to backend.
+
+style.css
+Styling for the chatbot web interface.
+
+requirements.txt
+Python dependency list for installing the environment.
+
+.gitignore
+Defines which files/folders Git should ignore.
 
 ---
