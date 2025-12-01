@@ -12,7 +12,7 @@ A Python-based chatbot project with web integration. This repository contains th
 
 Directories
 
-artifacts/ → Stores generated embeddings, vector indexes, or model output files
+# artifacts/ → Stores generated embeddings, vector indexes, or model output files
 chatbot_logic/ → Core chatbot logic (retriever, query engine, vector store, chunker, scraper, file extractors)
 data/ → Raw scraped pages, cleaned text, metadata, and knowledge JSON files
 files/ → Any uploaded/downloadable files used during testing or demo
